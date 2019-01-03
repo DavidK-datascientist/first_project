@@ -1,4 +1,4 @@
-List of tasks
+List of tasks:
 
 1. Define the question
 2. Explore sources of relevant available data
@@ -7,3 +7,5 @@ List of tasks
 5. Execute analysis/train NN
 6. Evaluate results
 7. Reporting/product deliverables
+
+And what if I add this
