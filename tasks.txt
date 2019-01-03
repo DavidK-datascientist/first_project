@@ -1,0 +1,9 @@
+List of tasks
+
+1. Define the question
+2. Explore sources of relevant available data
+3. Establish analysis strategy 
+4. Wrangle and tidy data
+5. Execute analysis/train NN
+6. Evaluate results
+7. Reporting/product deliverables
