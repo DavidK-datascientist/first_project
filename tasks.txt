@@ -7,5 +7,3 @@ List of tasks:
 5. Execute analysis/train NN
 6. Evaluate results
 7. Reporting/product deliverables
-
-And what if I add this
